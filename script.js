@@ -19,11 +19,6 @@ const songs = [
 		artist: 'Harshdeep Kaur, Vibha Saraf',
 	},
 	{
-		name : 'ae-watan',
-		displayName: 'Ae Watan',
-		artist: 'Arijit Singh',
-	},
-	{
 		name : 'gully-mein',
 		displayName: 'Mere Gully Mein',
 		artist: 'Divine',
@@ -44,11 +39,6 @@ const songs = [
 		artist: 'Ranveer Singh',
 	},
 	{
-		name : 'kab-se-kab-tak',
-		displayName: 'Kab Se Kab Tak',
-		artist: 'Ranveer Singh, Vibha Saraf',
-	},
-	{
 		name : 'azadi',
 		displayName: 'Azadi',
 		artist: 'Divine, Dub Sharma',
@@ -62,41 +52,6 @@ const songs = [
 		name : 'raabta',
 		displayName: 'Raabta',
 		artist: 'Arijit Singh',
-	},
-	{
-		name : 'ek-pal-ka-jeena',
-		displayName: 'Ek Pal Ka Jeena',
-		artist: 'Lucky Ali',
-	},
-	{
-		name : 'kaho-na-pyaar-hai',
-		displayName: 'Kaho Na Pyaar Hai',
-		artist: 'Udit Narayan, Alka Yagnik',
-	},
-	{
-		name : 'dil-ne-pukara',
-		displayName: 'Sitaro Ki Mehfil Me',
-		artist: 'Babul Supriyo',
-	},
-	{
-		name : 'na-tum-jano-na-hum',
-		displayName: 'Na Tum Jano Na Hum',
-		artist: 'Ramya, Lucky Ali',
-	},
-	{
-		name : 'chand-sitare',
-		displayName: 'Chand Sitare',
-		artist: 'Kumar Sanu',
-	},
-	{
-		name : 'kashti',
-		displayName: 'Pyar Ki Kashti Mein',
-		artist: 'Alka Yagnik, Udit Narayan',
-	},
-	{
-		name : 'janeman',
-		displayName: 'Janeman Janeman',
-		artist: 'Asha Bhosle',
 	},
 	{
 		name : 'chhor-denge',
